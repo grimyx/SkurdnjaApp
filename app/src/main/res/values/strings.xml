@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Skurdnja</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_order">AddOrderActivity</string>
+    <string name="ime_kupca">Ime kupca</string>
+    <string name="add_product_to_order">Dodaj</string>
+    <string name="finish_order">Zavrsi</string>
+    <string name="ime">Ime</string>
+    <string name="prezime">Prezime</string>
+    <string name="adresa">Adresa</string>
+    <string name="broj_telefona">Broj Telefona</string>
+    <string name="email">E-mail</string>
+    <string name="komentari">Komentari</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

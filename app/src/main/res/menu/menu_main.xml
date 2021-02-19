@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ventpar.skurdnja.MainActivity">
+
+    <item
+        android:id="@+id/app_bar_search"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="Search"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        app:showAsAction="always" />
+    <item android:id="@+id/menu_users"
+        android:title="Users"
+        android:icon="@drawable/ic_face_black_24dp"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/menu_products"
+        android:icon="@drawable/ic_build_black_24dp"
+        android:title="Search"
+        app:showAsAction="always"/>
+</menu>
